@@ -1,0 +1,6 @@
+sae-lens
+transformer-lens
+sae-dashboard
+tqdm
+nbformat
+-e git+https://github.com:montemac/activation_additions.git
